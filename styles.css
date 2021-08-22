@@ -1,0 +1,28 @@
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+.title {
+  color: #2e7ad3;
+  text-align: center;
+  margin: 0.9375em 0;
+}
+
+.subtitle {
+  color: #104c90;
+}
+
+.card {
+  background-color: #f1f1f1;
+  width: 31.25em;
+  padding: 1em;
+  margin: 0 auto;
+}
+
+.blog-image {
+  margin: 1.5625em 0;
+}
