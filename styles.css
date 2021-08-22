@@ -6,6 +6,24 @@ h2 {
   font-size: 2rem;
 }
 
+h2,
+p {
+  margin: 0;
+}
+
+p {
+  margin-bottom: 0.5625em;
+}
+
+a {
+  color: #ff8000;
+  font-weight: bold;
+}
+
+a:hover {
+  color: pink;
+}
+
 .title {
   color: #2e7ad3;
   text-align: center;
